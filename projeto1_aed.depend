@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663781326 source:c:\users\erica\documents\alg_estrut_dados\projeto1_aed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
